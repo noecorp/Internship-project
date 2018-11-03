@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trans>
+<parse mti="0200" pc="000021">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="18" type="NUMERIC" length="4" />
+        <field num="22" type="NUMERIC" length="3" />
+        <field num="25" type="NUMERIC" length="2" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+        <field num="111" type="LLLVAR" />
+        <field num="123" type="LLLVAR" />
+        <field num="126" type="LLLVAR" />
+        <field num="127" type="LLLVAR" />
+ </parse>
+
+
+<parse mti="0210" pc="000021">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="38" type="ALPHA" length="6" />
+        <field num="39" type="ALPHA" length="2" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+        <field num="54" type="LLLVAR" />
+ </parse>
+
+<parse mti="0200" pc="000012">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="18" type="NUMERIC" length="4" />
+        <field num="22" type="NUMERIC" length="3" />
+        <field num="25" type="NUMERIC" length="2" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+        <field num="111" type="LLLVAR" />
+        <field num="123" type="LLLVAR" />
+       
+      
+        <field num="126" type="LLLVAR" />
+        <field num="127" type="LLLVAR" />
+ </parse>
+
+<parse mti="0210" pc="000012">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="39" type="ALPHA" length="2" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+ </parse>
+ 
+<parse mti="0200" pc="000090">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="18" type="NUMERIC" length="4" />
+        <field num="22" type="NUMERIC" length="3" />
+        <field num="25" type="NUMERIC" length="2" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+        <field num="111" type="LLLVAR" />
+        <field num="120" type="LLLVAR" />
+        <field num="123" type="LLLVAR" />
+        <field num="126" type="LLLVAR" />
+        <field num="127" type="LLLVAR" />
+ </parse>
+
+<parse mti="0210" pc="000090">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+	<field num="38" type="ALPHA" length="6" />
+	<field num="39" type="ALPHA" length="2" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+	<field num="54" type="LLLVAR" />
+	<field num="120" type="LLLVAR" />
+	
+</parse>
+
+
+<parse mti="0200" pc="000031">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="18" type="NUMERIC" length="4" />
+        <field num="22" type="NUMERIC" length="3" />
+        <field num="25" type="NUMERIC" length="2" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+	<field num="111" type="LLLVAR" />
+	<field num="123" type="LLLVAR" />
+	<field num="126" type="LLLVAR" />
+	<field num="127" type="LLLVAR" />
+</parse>
+
+<parse mti="0210" pc="000031">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+	<field num="38" type="ALPHA" length="6" />
+	<field num="39" type="ALPHA" length="2" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+	<field num="54" type="LLLVAR" />
+	
+</parse>
+
+
+
+<parse mti="0200" pc="000001">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="18" type="NUMERIC" length="4" />
+        <field num="22" type="NUMERIC" length="3" />
+        <field num="25" type="NUMERIC" length="2" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+	<field num="111" type="LLLVAR" />
+	<field num="123" type="LLLVAR" />
+	<field num="126" type="LLLVAR" />
+	<field num="127" type="LLLVAR" />
+</parse>
+
+<parse mti="0210" pc="000001">
+        <field num="1" type="NUMERIC" length="32" />
+        <field num="2" type="LLVAR" />
+        <field num="3" type="ALPHA" length="6" />
+        <field num="4" type="NUMERIC" length="12" />
+        <field num="7" type="NUMERIC" length="10" />
+        <field num="11" type="NUMERIC" length="6" />
+        <field num="12" type="NUMERIC" length="6" />
+        <field num="13" type="NUMERIC" length="4" />
+        <field num="15" type="NUMERIC" length="4" />
+        <field num="32" type="LLVAR" />
+        <field num="37" type="ALPHA" length="12" />
+	<field num="38" type="ALPHA" length="6" />
+	<field num="39" type="ALPHA" length="2" />
+        <field num="41" type="ALPHA" length="8" />
+        <field num="42" type="ALPHA" length="15" />
+        <field num="43" type="ALPHA" length="40" />
+        <field num="49" type="NUMERIC" length="3" />
+	<field num="54" type="LLLVAR" />
+	
+</parse>
+</trans>
